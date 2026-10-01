@@ -7,6 +7,7 @@ Memoria del proyecto entre sesiones. Máximo ~50 líneas: resume o elimina lo qu
 - Sistema de filtrado básico (Todas, Pendientes, Completadas) y contador de pendientes.
 - Persistencia de datos local implementada en `localStorage`.
 - v2: notas opcionales en tareas con expander, edición inline y límite de 500 caracteres.
+- Documentación completa en `README.md`.
 
 ## Decisiones (y por qué)
 - **Sin backend ni dependencias externas:** Desarrollado con HTML/CSS/JS nativo para garantizar portabilidad total y carga instantánea mediante `file://` o servidor estático simple.
