@@ -16,6 +16,14 @@ Aplicación web ligera para la gestión de tareas personales, construida con est
 - **Ejecutar pruebas / Linter:** `npx eslint js/`
 - **Verificar formato CSS:** `npx stylelint css/**/*.css`
 
+## Diseño
+
+- **Paleta:** Fondo crema `#FAF7F2`, acento terracota `#C4532E`, texto carbón `#2D2A26`.
+- **Tipografía:** Georgia (serif) para headings, system-ui para body/UI.
+- **Estilo:** Editorial y cálido. Bordes sutiles, espaciado generoso, sin sombras fuertes.
+- **Checkbox:** Personalizado con `appearance: none` — círculo terracota con check blanco.
+- **Responsive:** Adaptado para móvil con formulario en columna y espaciado ajustado.
+
 ## Convenciones
 
 - **Nombres:**
